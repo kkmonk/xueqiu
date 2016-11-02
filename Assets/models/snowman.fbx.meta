@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 7d68f91ce5a44f74ab3d8c10f5f0c122
+timeCreated: 1473131097
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cone001
+    100002: Cone002
+    100004: Sphere001
+    100006: Sphere001_Part_1
+    100008: Sphere001_Part_10
+    100010: Sphere001_Part_11
+    100012: Sphere001_Part_12
+    100014: Sphere001_Part_13
+    100016: Sphere001_Part_14
+    100018: Sphere001_Part_15
+    100020: Sphere001_Part_16
+    100022: Sphere001_Part_17
+    100024: Sphere001_Part_18
+    100026: Sphere001_Part_19
+    100028: Sphere001_Part_2
+    100030: Sphere001_Part_20
+    100032: Sphere001_Part_21
+    100034: Sphere001_Part_22
+    100036: Sphere001_Part_23
+    100038: Sphere001_Part_24
+    100040: Sphere001_Part_25
+    100042: Sphere001_Part_26
+    100044: Sphere001_Part_27
+    100046: Sphere001_Part_28
+    100048: Sphere001_Part_29
+    100050: Sphere001_Part_3
+    100052: Sphere001_Part_30
+    100054: Sphere001_Part_4
+    100056: Sphere001_Part_5
+    100058: Sphere001_Part_6
+    100060: Sphere001_Part_7
+    100062: Sphere001_Part_8
+    100064: Sphere001_Part_9
+    100066: Sphere002
+    100068: Sphere003
+    100070: Sphere004
+    100072: Sphere005
+    100074: Sphere006
+    100076: Sphere007
+    100078: Torus001
+    100080: //RootNode
+    400000: Cone001
+    400002: Cone002
+    400004: Sphere001
+    400006: Sphere001_Part_1
+    400008: Sphere001_Part_10
+    400010: Sphere001_Part_11
+    400012: Sphere001_Part_12
+    400014: Sphere001_Part_13
+    400016: Sphere001_Part_14
+    400018: Sphere001_Part_15
+    400020: Sphere001_Part_16
+    400022: Sphere001_Part_17
+    400024: Sphere001_Part_18
+    400026: Sphere001_Part_19
+    400028: Sphere001_Part_2
+    400030: Sphere001_Part_20
+    400032: Sphere001_Part_21
+    400034: Sphere001_Part_22
+    400036: Sphere001_Part_23
+    400038: Sphere001_Part_24
+    400040: Sphere001_Part_25
+    400042: Sphere001_Part_26
+    400044: Sphere001_Part_27
+    400046: Sphere001_Part_28
+    400048: Sphere001_Part_29
+    400050: Sphere001_Part_3
+    400052: Sphere001_Part_30
+    400054: Sphere001_Part_4
+    400056: Sphere001_Part_5
+    400058: Sphere001_Part_6
+    400060: Sphere001_Part_7
+    400062: Sphere001_Part_8
+    400064: Sphere001_Part_9
+    400066: Sphere002
+    400068: Sphere003
+    400070: Sphere004
+    400072: Sphere005
+    400074: Sphere006
+    400076: Sphere007
+    400078: Torus001
+    400080: //RootNode
+    2300000: Cone001
+    2300002: Cone002
+    2300004: Sphere001
+    2300006: Sphere001_Part_1
+    2300008: Sphere001_Part_10
+    2300010: Sphere001_Part_11
+    2300012: Sphere001_Part_12
+    2300014: Sphere001_Part_13
+    2300016: Sphere001_Part_14
+    2300018: Sphere001_Part_15
+    2300020: Sphere001_Part_16
+    2300022: Sphere001_Part_17
+    2300024: Sphere001_Part_18
+    2300026: Sphere001_Part_19
+    2300028: Sphere001_Part_2
+    2300030: Sphere001_Part_20
+    2300032: Sphere001_Part_21
+    2300034: Sphere001_Part_22
+    2300036: Sphere001_Part_23
+    2300038: Sphere001_Part_24
+    2300040: Sphere001_Part_25
+    2300042: Sphere001_Part_26
+    2300044: Sphere001_Part_27
+    2300046: Sphere001_Part_28
+    2300048: Sphere001_Part_29
+    2300050: Sphere001_Part_3
+    2300052: Sphere001_Part_30
+    2300054: Sphere001_Part_4
+    2300056: Sphere001_Part_5
+    2300058: Sphere001_Part_6
+    2300060: Sphere001_Part_7
+    2300062: Sphere001_Part_8
+    2300064: Sphere001_Part_9
+    2300066: Sphere002
+    2300068: Sphere003
+    2300070: Sphere004
+    2300072: Sphere005
+    2300074: Sphere006
+    2300076: Sphere007
+    2300078: Torus001
+    3300000: Cone001
+    3300002: Cone002
+    3300004: Sphere001
+    3300006: Sphere001_Part_1
+    3300008: Sphere001_Part_10
+    3300010: Sphere001_Part_11
+    3300012: Sphere001_Part_12
+    3300014: Sphere001_Part_13
+    3300016: Sphere001_Part_14
+    3300018: Sphere001_Part_15
+    3300020: Sphere001_Part_16
+    3300022: Sphere001_Part_17
+    3300024: Sphere001_Part_18
+    3300026: Sphere001_Part_19
+    3300028: Sphere001_Part_2
+    3300030: Sphere001_Part_20
+    3300032: Sphere001_Part_21
+    3300034: Sphere001_Part_22
+    3300036: Sphere001_Part_23
+    3300038: Sphere001_Part_24
+    3300040: Sphere001_Part_25
+    3300042: Sphere001_Part_26
+    3300044: Sphere001_Part_27
+    3300046: Sphere001_Part_28
+    3300048: Sphere001_Part_29
+    3300050: Sphere001_Part_3
+    3300052: Sphere001_Part_30
+    3300054: Sphere001_Part_4
+    3300056: Sphere001_Part_5
+    3300058: Sphere001_Part_6
+    3300060: Sphere001_Part_7
+    3300062: Sphere001_Part_8
+    3300064: Sphere001_Part_9
+    3300066: Sphere002
+    3300068: Sphere003
+    3300070: Sphere004
+    3300072: Sphere005
+    3300074: Sphere006
+    3300076: Sphere007
+    3300078: Torus001
+    4300000: Sphere001
+    4300002: Sphere002
+    4300004: Torus001
+    4300006: Cone001
+    4300008: Sphere003
+    4300010: Sphere004
+    4300012: Cone002
+    4300014: Sphere005
+    4300016: Sphere006
+    4300018: Sphere007
+    4300020: Sphere001_Part_1
+    4300022: Sphere001_Part_2
+    4300024: Sphere001_Part_3
+    4300026: Sphere001_Part_4
+    4300028: Sphere001_Part_5
+    4300030: Sphere001_Part_6
+    4300032: Sphere001_Part_7
+    4300034: Sphere001_Part_8
+    4300036: Sphere001_Part_9
+    4300038: Sphere001_Part_10
+    4300040: Sphere001_Part_11
+    4300042: Sphere001_Part_12
+    4300044: Sphere001_Part_13
+    4300046: Sphere001_Part_14
+    4300048: Sphere001_Part_15
+    4300050: Sphere001_Part_16
+    4300052: Sphere001_Part_17
+    4300054: Sphere001_Part_18
+    4300056: Sphere001_Part_19
+    4300058: Sphere001_Part_20
+    4300060: Sphere001_Part_21
+    4300062: Sphere001_Part_22
+    4300064: Sphere001_Part_23
+    4300066: Sphere001_Part_24
+    4300068: Sphere001_Part_25
+    4300070: Sphere001_Part_26
+    4300072: Sphere001_Part_27
+    4300074: Sphere001_Part_28
+    4300076: Sphere001_Part_29
+    4300078: Sphere001_Part_30
+    7400000: idle
+    7400002: bz
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cone001
+        weight: 1
+      - path: Cone002
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Sphere001_Part_1
+        weight: 1
+      - path: Sphere001_Part_2
+        weight: 1
+      - path: Sphere001_Part_3
+        weight: 1
+      - path: Sphere001_Part_4
+        weight: 1
+      - path: Sphere001_Part_5
+        weight: 1
+      - path: Sphere001_Part_6
+        weight: 1
+      - path: Sphere001_Part_7
+        weight: 1
+      - path: Sphere001_Part_8
+        weight: 1
+      - path: Sphere001_Part_9
+        weight: 1
+      - path: Sphere001_Part_10
+        weight: 1
+      - path: Sphere001_Part_11
+        weight: 1
+      - path: Sphere001_Part_12
+        weight: 1
+      - path: Sphere001_Part_13
+        weight: 1
+      - path: Sphere001_Part_14
+        weight: 1
+      - path: Sphere001_Part_15
+        weight: 1
+      - path: Sphere001_Part_16
+        weight: 1
+      - path: Sphere001_Part_17
+        weight: 1
+      - path: Sphere001_Part_18
+        weight: 1
+      - path: Sphere001_Part_19
+        weight: 1
+      - path: Sphere001_Part_20
+        weight: 1
+      - path: Sphere001_Part_21
+        weight: 1
+      - path: Sphere001_Part_22
+        weight: 1
+      - path: Sphere001_Part_23
+        weight: 1
+      - path: Sphere001_Part_24
+        weight: 1
+      - path: Sphere001_Part_25
+        weight: 1
+      - path: Sphere001_Part_26
+        weight: 1
+      - path: Sphere001_Part_27
+        weight: 1
+      - path: Sphere001_Part_28
+        weight: 1
+      - path: Sphere001_Part_29
+        weight: 1
+      - path: Sphere001_Part_30
+        weight: 1
+      - path: Sphere002
+        weight: 1
+      - path: Sphere003
+        weight: 1
+      - path: Sphere004
+        weight: 1
+      - path: Sphere005
+        weight: 1
+      - path: Sphere006
+        weight: 1
+      - path: Sphere007
+        weight: 1
+      - path: Torus001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bz
+      takeName: Take 001
+      firstFrame: 20
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cone001
+        weight: 1
+      - path: Cone002
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Sphere001_Part_1
+        weight: 1
+      - path: Sphere001_Part_2
+        weight: 1
+      - path: Sphere001_Part_3
+        weight: 1
+      - path: Sphere001_Part_4
+        weight: 1
+      - path: Sphere001_Part_5
+        weight: 1
+      - path: Sphere001_Part_6
+        weight: 1
+      - path: Sphere001_Part_7
+        weight: 1
+      - path: Sphere001_Part_8
+        weight: 1
+      - path: Sphere001_Part_9
+        weight: 1
+      - path: Sphere001_Part_10
+        weight: 1
+      - path: Sphere001_Part_11
+        weight: 1
+      - path: Sphere001_Part_12
+        weight: 1
+      - path: Sphere001_Part_13
+        weight: 1
+      - path: Sphere001_Part_14
+        weight: 1
+      - path: Sphere001_Part_15
+        weight: 1
+      - path: Sphere001_Part_16
+        weight: 1
+      - path: Sphere001_Part_17
+        weight: 1
+      - path: Sphere001_Part_18
+        weight: 1
+      - path: Sphere001_Part_19
+        weight: 1
+      - path: Sphere001_Part_20
+        weight: 1
+      - path: Sphere001_Part_21
+        weight: 1
+      - path: Sphere001_Part_22
+        weight: 1
+      - path: Sphere001_Part_23
+        weight: 1
+      - path: Sphere001_Part_24
+        weight: 1
+      - path: Sphere001_Part_25
+        weight: 1
+      - path: Sphere001_Part_26
+        weight: 1
+      - path: Sphere001_Part_27
+        weight: 1
+      - path: Sphere001_Part_28
+        weight: 1
+      - path: Sphere001_Part_29
+        weight: 1
+      - path: Sphere001_Part_30
+        weight: 1
+      - path: Sphere002
+        weight: 1
+      - path: Sphere003
+        weight: 1
+      - path: Sphere004
+        weight: 1
+      - path: Sphere005
+        weight: 1
+      - path: Sphere006
+        weight: 1
+      - path: Sphere007
+        weight: 1
+      - path: Torus001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
